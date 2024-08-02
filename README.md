@@ -9,7 +9,7 @@ Utiliza também SQLite como banco de dados, Express.js como framework web, Node.
 
 ## 🔎Como acessar?
 <p align="start"> Para acessar o projeto você deve seguir alguns passos. Confira:</p>
-<br>
+
 
 ## Configuração
 
