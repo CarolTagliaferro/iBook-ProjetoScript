@@ -13,7 +13,7 @@ Utiliza também SQLite como banco de dados, Express.js como framework web, Node.
 
 ## Configuração
 
-# É necessario executar o backend com o comando dentro da pasta ibook-back e o frontend dentro da pasta ibook-front
+<p>É necessario executar o backend com o comando dentro da pasta ibook-back e o frontend dentro da pasta ibook-front</p> 
 
 <p>Front-End</p>
 **Instalação das Dependências:**
