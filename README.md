@@ -1,34 +1,39 @@
-# Projeto iBook ✨
-<p align="start">Este projeto é um site fictício para um sistema de reservas de restaurante, onde voce pode verificar cardapios, efetuar e cancelar reservas.  </p>
-<br>
+# 🍽️ Projeto iBook - Sistema de Reservas
+Seja bem-vindo(a) ao **iBook**!  
+Este projeto é um sistema fictício de **reserva de restaurantes**, onde os usuários podem visualizar cardápios, fazer e cancelar reservas com praticidade.
 
-## 💡Sobre
-<p align="start">Utiliza React para o desenvolvimento da interface de usuário, Axios para fazer requisições HTTP para o backend, e Tailwind CSS para estilização. 
-Utiliza também SQLite como banco de dados, Express.js como framework web, Node.js para o ambiente de execução JavaScript no servidor, e APIs para comunicação entre o frontend e o backend.</p>
-<br>
+## 💡Sobre o projeto
+O **iBook** foi desenvolvido como parte da disciplina de **Programação de Scripts** da faculdade.  
+A proposta foi criar uma aplicação fullstack com funcionalidades reais, unindo o aprendizado acadêmico com práticas do mercado.
 
-## 🔎Como acessar?
-<p align="start"> Para acessar o projeto você deve seguir alguns passos. Confira:</p>
+### 🧩 Tecnologias utilizadas:
 
+**Front-End:**
+- ⚛️ React – para construção da interface;
+- 📡 Axios – para comunicação com a API;
+- 🎨 Tailwind CSS – para estilização rápida e responsiva.
 
-## Configuração
+**Back-End:**
+- 🚀 Node.js – ambiente de execução JavaScript;
+- 🗃️ SQLite – banco de dados leve e eficiente;
+- 🔗 APIs – integração entre frontend e backend.
 
-<p>É necessario executar o backend com o comando dentro da pasta ibook-back e o frontend dentro da pasta ibook-front</p> 
+## ⚙️ Como rodar o projeto localmente?
+Você precisará rodar duas aplicações separadas: o **frontend** e o **backend**. Siga o passo a passo:
 
-<p>Front-End</p>
-**Instalação das Dependências:**
+### 📁 Backend (ibook-back)
 
-   - npm install
+1. Acesse a pasta do backend
+2. Execute o comando **npm install** para instalar as dependências
+3. Execute npm start para iniciar o servidor
 
-**Execução do Servidor:**
+### 💻 Frontend (ibook-front)
 
-   - npm run dev
+1. Acesse a pasta do frontend
+2. Execute o comando npm install para instalar as dependências
+3. Execute npm run dev para iniciar o projeto
 
-<p>Backend</p>
-**Instalação das Dependências:**
+Depois disso, o sistema estará funcionando localmente, e você poderá navegar, reservar e cancelar reservas de restaurantes!
 
-   - npm install
-
-**Execução do Aplicativo:**
-
-   - npm start
+## 🤝 Contato
+[LinkedIn](https://www.linkedin.com/in/ana-tagliaferro-2b8467268/)
